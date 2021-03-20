@@ -8,6 +8,7 @@
 ****
 
 - [YouTube Channel](https://www.youtube.com/channel/UCqaZGIkvE8IrgyCdnTAF8Hw)
+- [Vue + Vuex Login İşlemleri | #0](https://www.youtube.com/watch?v=OD9jFkHaHkA)
 
 ****
 
