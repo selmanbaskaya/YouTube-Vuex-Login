@@ -4,7 +4,7 @@
 		Username and/or password incorrect!
 	</div>
 	<div class="alert alert-success" v-if="getIsLogin">
-		Login succesfully!
+		Login successfully!
 	</div>
   </div>
 </template>
